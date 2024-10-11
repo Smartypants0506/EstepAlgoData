@@ -1,4 +1,4 @@
-public class GreatestCommonFactor {
+public class GreatestCommonFactor_Warmup {
 
     public static void main(String[] args) {
 
