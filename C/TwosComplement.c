@@ -4,15 +4,10 @@
 #include <stdint.h>
 
 void showDirections();
-
 int getAnswer(char *string);
-
 bool decimalToTwosComplement();
-
 bool twosComplementToDecimal();
-
 void printBinary(int8_t number);
-
 int decimalToTwosComplementConverter(int8_t number);
 
 char choiceString[] = "Enter 1 or 2: ";
